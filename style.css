@@ -170,7 +170,7 @@ main {
 
 @media only screen and (max-width: 600px) {
     main {
-        width: 60%;
+        width: 90%;
         height: 55dvh;
         top: -5rem;
     }
@@ -187,6 +187,7 @@ main {
         font-size: 2.5rem;
     }
     .dice {
+        top: 40%;
         height: 8rem;
     }
     .btn--new {
